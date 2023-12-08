@@ -1,0 +1,19 @@
+
+h1{
+
+        color:rgb(184, 30, 30);
+        text-align:center;
+        background-color: rgb(202, 34, 138);
+        padding: 20px;
+}
+h2,h3{
+    color:rgb(221, 28, 28);
+}
+.p1{
+    color:rgb(137, 24, 243);
+}
+span{
+    color:rgb(223, 32, 32);
+    font-weight: bold;
+    text-decoration:underline;
+}
